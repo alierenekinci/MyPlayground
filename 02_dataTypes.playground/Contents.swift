@@ -28,7 +28,7 @@ myNumberFloat
 let pi = 3.14 // pi değiştirmeye gerek yok. :D
 let eNumber :Double = 2.71
 
-// Boolen - bool
+// Boolean - bool
 var isLoggedIn: Bool = false
 var isUpperCase = true
 
