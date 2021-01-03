@@ -50,16 +50,13 @@ let float80: Float80?
 let pi = 3.14 // pi değiştirmeye gerek yok. :D
 let eNumber :Double = 2.71
 
-<<<<<<< HEAD
+
 // Çeşitleri
 
 let double:Double
 
 
-// Boolen - bool
-=======
 // Boolean - bool
->>>>>>> eff8ef908e248a0984b4d87ae49c3ce7730d552f
 var isLoggedIn: Bool = false
 var isUpperCase = true
 
